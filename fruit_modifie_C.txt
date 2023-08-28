@@ -1,0 +1,8 @@
+quantite,nom,Description,
+1110,"pomme","pfrance",
+1220, "banane","bon",
+1400, "banane","mauvaise"
+1500, "banane","mauvaise",
+800, "mangue", "bon"
+
+
